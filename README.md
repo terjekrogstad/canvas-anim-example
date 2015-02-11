@@ -7,9 +7,13 @@
 * Grunt
 
 ## Installation instructions
-´ npm install
-´ bower install
+```bash
+npm install
+bower install
+```
 
 
 ##Serve the files with Grunt
-´´grunt serve
+```bash
+grunt serve
+```
